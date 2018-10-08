@@ -1,1 +1,7 @@
-<body {background: blue;}
+body
+{color: white;
+background: blue;
+display: inline ;
+}
+ul {background: black;}
+ul li{display:inline;}
